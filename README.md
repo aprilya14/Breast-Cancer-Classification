@@ -6,15 +6,14 @@ The goal of this project is to classify whether a tumor is malignant (M) or beni
 
 Key Features
 Dataset:
-
-The dataset includes 569 samples with 30 numerical features.
-Source: Breast Cancer Wisconsin Diagnostic Dataset (available in scikit-learn).
+- The dataset includes 569 samples with 30 numerical features.
+- Source: Breast Cancer Wisconsin Diagnostic Dataset (available in scikit-learn).
+  
 Algorithms and Tools Used:
-
-Decision Tree Classifier from scikit-learn
-Visualized using matplotlib
-Preprocessing and data handling with pandas and numpy
+- Decision Tree Classifier from scikit-learn
+- Visualized using matplotlib
+- Preprocessing and data handling with pandas and numpy
+  
 Results:
-
-Achieved 94.74% accuracy on the test set.
-Clear visualization of the decision-making process using a plotted decision tree.
+- Achieved 94.74% accuracy on the test set.
+- Clear visualization of the decision-making process using a plotted decision tree.
